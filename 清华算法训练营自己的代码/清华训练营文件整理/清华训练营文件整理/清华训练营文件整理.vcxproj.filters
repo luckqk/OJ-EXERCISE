@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\第一周习题一">
+      <UniqueIdentifier>{43e3a0c5-a9b5-4149-9d99-be85d5b415b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第一周习题二">
+      <UniqueIdentifier>{dfffaadb-04ea-42b9-a967-85ec8286dae4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第一周习题三">
+      <UniqueIdentifier>{4b24463a-f527-44ac-b5bd-01f5611581ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第一周周测">
+      <UniqueIdentifier>{b480ce14-9dd8-42ac-9e3b-7125edfe35aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第二周习题一">
+      <UniqueIdentifier>{8cb209b8-230c-4db5-993f-5b3a94cae77b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第二周习题三">
+      <UniqueIdentifier>{be0dfcdb-82a3-484a-8aa7-6f53b4d4f12c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第二周周测">
+      <UniqueIdentifier>{ecd544a8-9998-496e-8130-4a75e52cf975}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\排序算法">
+      <UniqueIdentifier>{43ff7005-b8b5-4c11-b7bd-2fda4ee32def}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第二周习题二">
+      <UniqueIdentifier>{5d391550-a10f-46f2-8dd4-2acbe1280d41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第三周习题一">
+      <UniqueIdentifier>{857c948e-d5eb-4817-b9af-8357d057c812}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第三周习题二">
+      <UniqueIdentifier>{4c81eca0-e8b4-412e-a7fc-8bc7ea6c7e52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第三周习题三">
+      <UniqueIdentifier>{9574aee8-5587-4478-9701-07f96c8e5a68}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\栈.cpp">
+      <Filter>源文件\第一周习题一</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\队列.cpp">
+      <Filter>源文件\第一周习题一</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\二叉排序树链表版.cpp">
+      <Filter>源文件\第一周习题一</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\二叉排序树数组版.cpp">
+      <Filter>源文件\第一周习题一</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\数字盒子.cpp">
+      <Filter>源文件\第一周习题二</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\重编码.cpp">
+      <Filter>源文件\第一周习题二</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\成绩排序.cpp">
+      <Filter>源文件\第一周习题二</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\等式.cpp">
+      <Filter>源文件\第一周习题三</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\道路升级.cpp">
+      <Filter>源文件\第一周习题三</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\重编码K.cpp">
+      <Filter>源文件\第一周周测</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\排序.cpp">
+      <Filter>源文件\第二周习题一</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\分组.cpp">
+      <Filter>源文件\第二周习题一</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\大转盘.cpp">
+      <Filter>源文件\第二周习题一</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\象棋.cpp">
+      <Filter>源文件\第二周习题二</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\序列计数.cpp">
+      <Filter>源文件\第二周习题二</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\最小交换.cpp">
+      <Filter>源文件\第二周习题三</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\楼尔邦德.cpp">
+      <Filter>源文件\第二周习题三</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\最短路.cpp">
+      <Filter>源文件\第二周习题三</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\K小数.cpp">
+      <Filter>源文件\第二周周测</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\快速排序.cpp">
+      <Filter>源文件\第二周周测</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\插入排序.cpp">
+      <Filter>源文件\排序算法</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\数字三角形.cpp">
+      <Filter>源文件\第三周习题一</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\背包1.cpp">
+      <Filter>源文件\第三周习题一</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\背包2.cpp">
+      <Filter>源文件\第三周习题一</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\刷油漆.cpp">
+      <Filter>源文件\第三周习题二</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\n皇后.cpp">
+      <Filter>源文件\第三周习题二</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\最长公共子序列.cpp">
+      <Filter>源文件\第三周习题三</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\倒水问题.cpp">
+      <Filter>源文件\第三周习题三</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\奶牛吃草.cpp">
+      <Filter>源文件\第三周习题三</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
